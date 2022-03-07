@@ -45,7 +45,7 @@ PWMSparkMax lift = new PWMSparkMax(7);
 
 
   //Constants for controlling the arm. NEED TO BE TUNED.
-  final double armHoldUp = 0.08;
+  final double armHoldUp = 0.09;
   final double armHoldDown = 0.13;
   final double armTravel = 0.5;
 
